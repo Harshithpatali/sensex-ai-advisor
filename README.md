@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+yfinance
+tensorflow
+torch
+transformers
+scipy
+nltk
+streamlit
+google-search-results
+openai
